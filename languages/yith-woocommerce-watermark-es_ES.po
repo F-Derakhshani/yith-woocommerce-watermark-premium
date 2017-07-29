@@ -1,0 +1,605 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Watermark\n"
+"POT-Creation-Date: 2016-12-29 14:16+0100\n"
+"PO-Revision-Date: 2016-12-29 14:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;_ngettext_noop:1,2;"
+"_n_nooop:1,2;_c,_nc:4c,1,2;_x:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:112
+#: ../plugin-options/watermark-list-options.php:11
+msgid "Active Watermark"
+msgstr "Activar Watermark"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:152
+msgctxt "enhanced select"
+msgid "One result is available, press enter to select it."
+msgstr "Hay un resultado disponible, pulsa enter para seleccionarlo."
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:153
+msgctxt "enhanced select"
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr ""
+"Hay %qty% resultados disponibles, pulsa las flechas de dirección arriba y "
+"abajo para navegar."
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:154
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "No se han encontrado coincidencias."
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:155
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "Carga fallida"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:156
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "Por favor, introduce 1 o más caracteres"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:157
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "Por favor, introduce %qty% o más caracteres"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:158
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "Por favor, borra 1 caracter"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:159
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "Por favor, borra %qty% caracteres"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:160
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "Puedes seleccionar 1 elemento"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:161
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "Puedes seleccionar %qty% elementos"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:162
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "Cargando más resultados&hellip;"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:163
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "Buscando&hellip"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:175
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:215
+msgid "TOP LEFT"
+msgstr "SUPERIOR IZQUIERDA"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:176
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:216
+msgid "TOP CENTER"
+msgstr "SUPERIOR CENTRO"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:177
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:217
+msgid "TOP RIGHT"
+msgstr "SUPERIOR DERECHA"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:178
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:218
+msgid "LEFT CENTER"
+msgstr "CENTRO IZQUIERDA"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:179
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:219
+msgid "CENTER"
+msgstr "CENTRO"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:180
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:220
+msgid "RIGHT CENTER"
+msgstr "CENTRO DERECHA"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:181
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:221
+msgid "BOTTOM LEFT"
+msgstr "INFERIOR IZQUIERDA"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:182
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:222
+msgid "BOTTOM CENTER"
+msgstr "INFERIOR CENTRO"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:183
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:223
+msgid "BOTTOM RIGHT"
+msgstr "INFERIOR DERECHA"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:186
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:226
+msgid "Do you want to delete this watermark ?"
+msgstr "¿Quieres borrar esta marca de agua?"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:189
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:229
+msgid "Image has been created"
+msgstr "La imagen ha sido creada"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:190
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:230
+msgid "Images have been created"
+msgstr "Las imágenes han sido creadas"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:191
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:231
+msgid "Image has not been created"
+msgstr "La imagen no ha sido creada"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:192
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:232
+msgid "Images have not been created"
+msgstr "Las imágenes no han sido creadas"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:763
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:789
+#: ../includes/classes/class.yith-woocommerce-watermark.php:251
+#: ../includes/classes/class.yith-woocommerce-watermark.php:252
+msgid "Watermark"
+msgstr "Watermark"
+
+#: ../includes/classes/class.yith-woocommerce-watermark-premium.php:764
+msgid "Add custom watermark for this product"
+msgstr "Añadir marca de agua personalizada para este producto"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:159
+#: ../includes/classes/class.yith-woocommerce-watermark.php:244
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:161
+msgid "Premium live demo"
+msgstr "Live demo premium"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:161
+msgid "Live demo"
+msgstr "Live demo"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:166
+#: ../includes/classes/class.yith-woocommerce-watermark.php:245
+msgid "Premium Version"
+msgstr "Versión Premium"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:193
+msgid "Plugin Documentation"
+msgstr "Documentación del plugin"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:310
+msgid "The watermark has been applied to"
+msgstr "La marca de agua ha sido aplicada a"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:311
+msgid "Product"
+msgstr "Producto"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:312
+msgid "on"
+msgstr "de"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:313
+msgid "Products"
+msgstr "Productos"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:314
+msgid "Completed"
+msgstr "Completado"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:315
+msgid "You can't use images bigger than"
+msgstr "No puedes usar imágenes mayores que"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:318
+msgid "of the size of the \"Single Product image\", that is"
+msgstr "del tamaño de \"Imagen de Producto Único\", que es"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:321
+msgid "Images will be restored, are you sure? "
+msgstr "Las imágenes serán restauradas, ¿estás seguro?"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:322
+msgid "Image has been deleted"
+msgstr "La imagen ha sido eliminada"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:323
+msgid "Images have been deleted"
+msgstr "Las imágenes han sido eliminadas"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:324
+msgid "Image has not been deleted"
+msgstr "La imagen no ha sido eliminada"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:325
+msgid "Images have not been deleted"
+msgstr "Las imágenes no han sido eliminadas"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:785
+msgid "From version 1.0.7 all your product backed up images are available at"
+msgstr ""
+"Desde la versión 1.0.7 todas las imágenes de tus productos guardados en la "
+"copia de seguridad están disponibles en"
+
+#: ../includes/classes/class.yith-woocommerce-watermark.php:798
+msgid "Backup completed!"
+msgstr "¡Copia de seguridad completada!"
+
+#: ../init.php:45
+msgid ""
+"YITH WooCommerce Watermark Premium is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Watermark Premium está activado pero no es efectivo. "
+"Requiere WooCommerce para funcionar."
+
+#: ../plugin-options/general-settings-options.php:11
+msgid "General Settings"
+msgstr "Ajustes Generales"
+
+#: ../plugin-options/general-settings-options.php:27
+msgid "Jpeg Quality"
+msgstr "Calidad Jpeg"
+
+#: ../plugin-options/watermark-list-options.php:17
+msgid "Add New Watermark"
+msgstr "Añadir nueva marca de agua"
+
+#: ../templates/admin/custom-button.php:15
+msgid "Generate a complete backup"
+msgstr "Generar una copia de seguridad completa"
+
+#: ../templates/admin/custom-button.php:17
+msgid "Backup"
+msgstr "Copia de seguridad"
+
+#: ../templates/admin/watermark-apply.php:16
+msgid "Apply all watermarks"
+msgstr "Aplicar todas las marcas de agua"
+
+#: ../templates/admin/watermark-apply.php:18
+msgid "Apply All Watermarks"
+msgstr "Aplicar todas las marcas de agua"
+
+#: ../templates/admin/watermark-apply.php:19
+msgid "Apply all watermarks created to all your product images"
+msgstr ""
+"Aplicar todas las marcas de agua creadas a todas tus imágenes de productos"
+
+#: ../templates/admin/watermark-apply.php:23
+#: ../templates/admin/watermark-apply.php:25
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: ../templates/admin/watermark-apply.php:26
+msgid ""
+"Delete all product images with watermark (once completed, you have to "
+"deactivate the plugin and regenerate image thumbnails)."
+msgstr ""
+"Borrar todas las imágenes de producto con marca de agua (una vez completado, "
+"debes desactivar el plugin y regenerar las miniaturas de las imágenes)"
+
+#: ../templates/admin/watermark-insert-new.php:16
+#: ../templates/metaboxes/product_watermark.php:14
+msgid "Add Watermark"
+msgstr "Añadir marca de agua"
+
+#: ../templates/metaboxes/product_watermark.php:15
+msgid "Add"
+msgstr "Añadir"
+
+#: ../templates/single-product-watermark-template.php:36
+#: ../templates/single-watermark-template.php:40
+msgid "( in pt )"
+msgstr "(en pt)"
+
+#: ../templates/single-product-watermark-template.php:36
+#: ../templates/single-watermark-template.php:40
+msgid "( in px )"
+msgstr "(en px)"
+
+#: ../templates/single-product-watermark-template.php:41
+#: ../templates/single-watermark-template.php:47
+msgid "Remove"
+msgstr "Eliminar"
+
+#: ../templates/single-product-watermark-template.php:43
+#: ../templates/single-watermark-template.php:49
+msgid "Expand"
+msgstr "Expandir"
+
+#: ../templates/single-product-watermark-template.php:44
+#: ../templates/single-watermark-template.php:50
+msgid "Collapse"
+msgstr "Contraer"
+
+#: ../templates/single-product-watermark-template.php:49
+msgid "Create Watermark"
+msgstr "Crear marca de agua"
+
+#: ../templates/single-product-watermark-template.php:51
+msgid "Starting from a text"
+msgstr "Empezar desde un texto"
+
+#: ../templates/single-product-watermark-template.php:52
+msgid "Starting from an image"
+msgstr "Empezar desde una imagen"
+
+#: ../templates/single-product-watermark-template.php:58
+msgid "Text"
+msgstr "Texto"
+
+#: ../templates/single-product-watermark-template.php:59
+msgid "Write a text"
+msgstr "Escribir un texto"
+
+#: ../templates/single-product-watermark-template.php:62
+msgid "Font Type"
+msgstr "Tipo de fuente"
+
+#: ../templates/single-product-watermark-template.php:76
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+#: ../templates/single-product-watermark-template.php:81
+msgid "Font Color"
+msgstr "Color de fuente"
+
+#: ../templates/single-product-watermark-template.php:86
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: ../templates/single-product-watermark-template.php:91
+msgid "Opacity"
+msgstr "Opacidad"
+
+#: ../templates/single-product-watermark-template.php:93
+msgid ""
+"Set background opacity, set to 0 for complete transparency, or to\n"
+"  100 for complete opacity"
+msgstr ""
+"Establecer opacidad de fondo, establece 0 para transparencia total\n"
+" o 100 para opacidad completa"
+
+#: ../templates/single-product-watermark-template.php:97
+msgid "Box Width"
+msgstr "Ancho del cuadro"
+
+#: ../templates/single-product-watermark-template.php:99
+msgid ""
+"Set the width of the box by percentage compared to the selected \"Shop Size"
+"\" option"
+msgstr ""
+"Establece el ancho del cuadro en porcentaje comparado a la opción "
+"seleccionada \"Tamaño de la tienda\""
+
+#: ../templates/single-product-watermark-template.php:102
+msgid "Box Height"
+msgstr "Altura del cuadro"
+
+#: ../templates/single-product-watermark-template.php:104
+msgid ""
+"Set the height of the box by percentage compared to the selected \"Shop Size"
+"\" option"
+msgstr ""
+"Establece la altura del cuadro en porcentaje comparado a la opción "
+"seleccionada \"Tamaño de la tienda\""
+
+#: ../templates/single-product-watermark-template.php:107
+#: ../templates/single-watermark-template.php:124
+msgid "Rotate text to"
+msgstr "Rotar texto"
+
+#: ../templates/single-product-watermark-template.php:109
+#: ../templates/single-watermark-template.php:127
+msgid "Specify an angle between 0 and 360° to rotate your text"
+msgstr "Especifica un ángulo entre 0 y 360º para rotar tu texto"
+
+#: ../templates/single-product-watermark-template.php:112
+#: ../templates/single-watermark-template.php:132
+msgid "Line Height"
+msgstr "Altura de línea"
+
+#: ../templates/single-product-watermark-template.php:114
+#: ../templates/single-watermark-template.php:135
+msgid "Set -1 to set it equal to the height of the watermark"
+msgstr "Establece -1 para establecerlo igual a la altura de la marca de agua"
+
+#: ../templates/single-product-watermark-template.php:120
+#: ../templates/single-product-watermark-template.php:122
+#: ../templates/single-watermark-template.php:161
+msgid "Select Watermark"
+msgstr "Selecciona marca de agua"
+
+#: ../templates/single-product-watermark-template.php:126
+msgid "Repeat image"
+msgstr "Repetir imagen"
+
+#: ../templates/single-product-watermark-template.php:128
+#: ../templates/single-watermark-template.php:172
+msgid "If enabled, the watermark is replicated on the whole image"
+msgstr "Si está habilitado, la marca de agua se replica en la imagen completa"
+
+#: ../templates/single-product-watermark-template.php:135
+#: ../templates/single-watermark-template.php:214
+msgid "Watermark Position"
+msgstr "Posición de la marca de agua"
+
+#: ../templates/single-product-watermark-template.php:162
+#: ../templates/single-watermark-template.php:178
+msgid "Margin X"
+msgstr "Margen X"
+
+#: ../templates/single-product-watermark-template.php:166
+#: ../templates/single-watermark-template.php:180
+msgid "Margin Y"
+msgstr "Margen Y"
+
+#: ../templates/single-product-watermark-template.php:172
+#: ../templates/single-watermark-template.php:186
+msgid "Shop Size"
+msgstr "Tamaño de la tienda"
+
+#: ../templates/single-product-watermark-template.php:176
+#: ../templates/single-watermark-template.php:191
+msgid "Shop Single"
+msgstr ""
+
+#: ../templates/single-product-watermark-template.php:177
+#: ../templates/single-watermark-template.php:192
+msgid "Shop Thumbnail"
+msgstr ""
+
+#: ../templates/single-product-watermark-template.php:178
+#: ../templates/single-watermark-template.php:193
+msgid "Shop Catalog"
+msgstr ""
+
+#: ../templates/single-product-watermark-template.php:179
+#: ../templates/single-watermark-template.php:194
+msgid "Full Size (visible in modal)"
+msgstr ""
+
+#: ../templates/single-product-watermark-template.php:186
+msgid "Select the images you want to apply the watermark on"
+msgstr "Selecciona las imágenes a las que quieres aplicar la marca de agua"
+
+#: ../templates/single-product-watermark-template.php:192
+#: ../templates/single-product-watermark-template.php:204
+msgid "Preview"
+msgstr "Vista previa"
+
+#: ../templates/single-product-watermark-template.php:205
+msgid ""
+"It is not possible to preview the image, as the result depends on the size "
+"of the original images"
+msgstr ""
+"No es posible previsualizar la imagen, pues el resultado depende el tamaño "
+"de las imágenes originales"
+
+#: ../templates/single-watermark-template.php:58
+msgid "Create Watermark from"
+msgstr "Crear marca de agua desde"
+
+#: ../templates/single-watermark-template.php:61
+msgid "Select an option"
+msgstr "Selecciona una opción"
+
+#: ../templates/single-watermark-template.php:62
+msgid "From Text"
+msgstr "Desde texto"
+
+#: ../templates/single-watermark-template.php:63
+msgid "From Image"
+msgstr "Desde imagen"
+
+#: ../templates/single-watermark-template.php:73
+msgid "Watermark Text"
+msgstr "Texto de marca de agua"
+
+#: ../templates/single-watermark-template.php:79
+msgid "Watermark Font"
+msgstr "Fuente de marca de agua"
+
+#: ../templates/single-watermark-template.php:94
+msgid "Watermark Font Color"
+msgstr "Color de fuente de marca de agua"
+
+#: ../templates/single-watermark-template.php:101
+msgid "Watermark Font Size "
+msgstr "Tamaño de fuente de marca de agua"
+
+#: ../templates/single-watermark-template.php:108
+msgid "Box Width ( % ) "
+msgstr "Ancho de cuadro ( % ) "
+
+#: ../templates/single-watermark-template.php:111
+msgid "Set the width of the box in percent compared to the shop size"
+msgstr ""
+"Establece el ancho del cuadro en porcentaje comparado al tamaño de la tienda"
+
+#: ../templates/single-watermark-template.php:116
+msgid "Box Height ( % ) "
+msgstr "Altura de cuadro ( % ) "
+
+#: ../templates/single-watermark-template.php:119
+msgid "Set the height of the box in percent compared to the shop size"
+msgstr ""
+"Establece la altura del cuadro en porcentaje comparado al tamaño de la tienda"
+
+#: ../templates/single-watermark-template.php:139
+msgid "Watermark Background Color"
+msgstr "Color de fondo de marca de agua"
+
+#: ../templates/single-watermark-template.php:146
+msgid "Watermark Opacity"
+msgstr "Opacidad de la marca de agua"
+
+#: ../templates/single-watermark-template.php:149
+msgid ""
+"Set background opacity, set to 0 for complete transparency, or set to 100 "
+"for complete opacity"
+msgstr ""
+"Establece la opacidad del fondo, 0 para transparencia total, o 100 para "
+"opacidad completa"
+
+#: ../templates/single-watermark-template.php:158
+msgid "Watermark Image"
+msgstr "Imagen de marca de agua"
+
+#: ../templates/single-watermark-template.php:168
+msgid "Repeat Image"
+msgstr "Repetir imagen"
+
+#: ../templates/single-watermark-template.php:176
+msgid "Watermark Margin"
+msgstr "Margen de Marca de agua"
+
+#: ../templates/single-watermark-template.php:201
+msgid "Select the images to which you want to apply the watermark"
+msgstr "Selecciona las imágenes a las que quieres aplicar la marca de agua"
+
+#: ../templates/single-watermark-template.php:206
+msgid "Product Categories"
+msgstr "Categorías de productos"
+
+#: ../templates/single-watermark-template.php:208
+msgid "Choose Category"
+msgstr "Elegir categoría"
+
+#: ../templates/single-watermark-template.php:210
+msgid ""
+"Select the categories to which you want to apply the watermark, leave empty "
+"to select all"
+msgstr ""
+"Selecciona las categorías a las cuales quieres aplicar la marca de agua, "
+"déjalo vacío para seleccionarlas todas"
+
+#: ../templates/single-watermark-template.php:253
+msgid ""
+"It is not possible to preview the image, as the result depends on the size "
+"of the original product images"
+msgstr ""
+"No es posible previsualizar la imagen, pues el resultado depende del tamaño "
+"de las imágenes de los productos originales"

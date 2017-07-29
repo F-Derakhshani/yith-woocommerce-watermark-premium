@@ -1,0 +1,1 @@
+# yith-woocommerce-watermark-premium
